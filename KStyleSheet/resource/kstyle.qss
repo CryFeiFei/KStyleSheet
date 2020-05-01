@@ -1,0 +1,66 @@
+/* QPushButton Style */
+
+/*btn1---------------------------------*/
+#btn1{
+    color:#4F5D79;
+    background-color:rgba(255,255,255,1);
+    border-radius:4px;
+    border:1px solid;
+    border-color:rgba(54,66,90,30%);
+}
+#btn1:hover:!pressed {
+    background-color:#F1F3F5;
+    color:#36425A;
+    border-radius:4px;
+    border:1px solid;
+    border-color:rgba(54,66,90,30%);
+}
+#btn1:pressed {
+     background-color:rgba(139,151,175,30%);
+     border-radius:4px;
+     border:none;
+    color:#36425A;
+}
+
+/*btn2---------------------------------*/
+#btn2 { 
+    color:#FFFFFF; 
+    background-color:#417FF9; 
+    border-radius:4px; 
+    border:none; 
+} 
+#btn2:hover:!pressed { 
+    background-color:#608DFA; 
+    color:#FFFFFF; 
+    border-radius:4px; 
+    border:none; 
+} 
+#btn2:pressed { 
+    background-color:#1F72F1; 
+    border-radius:4px; 
+    border:none; 
+    color:#FFFFFF; 
+}
+
+/*btn3---------------------------------*/
+#btn3 { 
+    color:#FFFFFF; 
+    background-color:#a49ef0; 
+    border-radius:4px; 
+    border:none; 
+} 
+#btn3:hover:!pressed { 
+    background-color:#7B72E9; 
+    color:#FFFFFF; 
+    border-radius:4px; 
+    border:none; 
+} 
+#btn3:pressed { 
+    background-color:#827ae1; 
+    border-radius:4px; 
+    border:none; 
+    color:#5246e2; 
+} ;
+
+
+
